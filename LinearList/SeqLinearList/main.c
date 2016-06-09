@@ -1,3 +1,4 @@
+/*顺序线性表*/
 #include"linear.h"
 
 int main()
