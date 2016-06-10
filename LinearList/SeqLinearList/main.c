@@ -9,7 +9,7 @@ int main()
 	while(1)
 	{
 		printf(">>>1.List\n>>>2.Length\n>>>3.Insert\n>>>4.Delete\n>>>5.Find\n>>>6.GetElem\n>>>0.Exit\n");
-		printf("Please input(0-3):");
+		printf("Please input(0-6):");
 		scanf("%d",&cho);
 		switch(cho)
 		{
