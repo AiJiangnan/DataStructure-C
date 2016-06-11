@@ -23,7 +23,7 @@ extern int ListEmpty(LinkList head);
 extern int ListLength(LinkList head);
 extern int TraverseList(LinkList head);
 extern int ListInsert(LinkList head,int i,datatype e);
-extern int ListDelete(LinkList head,int i);
+extern int ListDelete(LinkList head,datatype i);
 extern int ListFind(LinkList head,int e);
 extern LinkList ListFindElem(LinkList head,datatype e);
 extern int GetElem(LinkList head,int i,datatype *e);
